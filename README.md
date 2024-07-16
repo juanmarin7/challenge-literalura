@@ -1,6 +1,6 @@
 # Challenge Literalura 
 
-![Pin](./imagenes/pin-literalura.png)
+![Pin](./imagenes/badge literalura.png)
 
 
 
